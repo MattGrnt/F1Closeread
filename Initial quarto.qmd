@@ -1,6 +1,9 @@
 ---
 title: "Closeread Example"
 author: "Matt Grant"
+project:
+  type: website
+  output-dir: docs
 format: html
 editor: visual
 ---
